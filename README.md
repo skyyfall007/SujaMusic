@@ -8,7 +8,6 @@
 
 <p align="center">
 <b><a href="#overview">Overview</a></b>
-|
 </p>
 
 
@@ -26,5 +25,5 @@ Xenon allows students to have the convince of learning on the go, any time of th
 
 ##  LICENSE
 
-The properties of Xenon are protected under the following INTELLECTUAL PROPERTY AND LICENSING AGREEMENT:
+The properties of Suja Music are protected under the following INTELLECTUAL PROPERTY AND LICENSING AGREEMENT:
 
