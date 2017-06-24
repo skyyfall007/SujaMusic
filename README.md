@@ -22,8 +22,3 @@ Xenon allows students to have the convince of learning on the go, any time of th
    <img width="490" src="assets/Features_Readme_2.png">
 </section>
 
-
-##  LICENSE
-
-The properties of Suja Music are protected under the following INTELLECTUAL PROPERTY AND LICENSING AGREEMENT:
-
