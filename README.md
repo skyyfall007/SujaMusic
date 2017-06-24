@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="sujamusicfestival/layoutimages/logo.png">
+<img src ="Suja Music Festival/layoutimages/logo.png">
 </p>
 
 # SUJA MUSIC
