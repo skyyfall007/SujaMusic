@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="assets/XE1.png">
+<img src ="layoutimages/logo.png">
 </p>
 
 # SUJA MUSIC
