@@ -13,10 +13,6 @@ The sounds from the speakers and scents of the food mingle in the desert air. En
 
 Suja is much more than just a music festival, it is a culture. All things Suja are crafted with ❤️
 
-##  FEATURES
+<img src="Suja Music Festival/layoutimages/sujagraphic.png">
 
-<section>
-    <img width="355" src="assets/Features_Readme_1.png">
-   <img width="490" src="assets/Features_Readme_2.png">
-</section>
 
