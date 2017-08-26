@@ -6,10 +6,6 @@
 [![npm](https://img.shields.io/badge/platform-mobile/web-lightgrey.svg)](https://soft-eng-practicum.github.io/xenon/)
 [![npm](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
-<p align="center">
-<b><a href="#overview">Overview</a></b>
-</p>
-
 
 ##  OVERVIEW
 
