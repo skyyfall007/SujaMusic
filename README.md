@@ -13,7 +13,9 @@
 
 ##  OVERVIEW
 
-Xenon allows students to have the convince of learning on the go, any time of the day.  It’s availability on any mobile browser provides easy accessibility for all mobile drivers/platforms. The intent of Xenon puts the interest of students above everything else and continues to think of new convenient ways to reach bigger audiences and deliver new interesting ways to learn and retain information!
+The sounds from the speakers and scents of the food mingle in the desert air. Enormous works of art stand tall next to palm trees that sway before the majestic mountains. Blades of grass form a carpet of green where groups of friends come together to forge memories that last forever.
+
+Suja is much more than just a music festival, it is a culture. All things Suja are crafted with ❤️
 
 ##  FEATURES
 
